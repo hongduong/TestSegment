@@ -6,6 +6,6 @@ target 'TestSegment' do
   use_frameworks!
 
   # Pods for TestSegment
-#  pod 'NKFrameLayoutKit'
+  pod 'NKFrameLayoutKit'
   
 end
